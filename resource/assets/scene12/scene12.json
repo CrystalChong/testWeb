@@ -1,0 +1,12 @@
+{"file":"scene12.png","frames":{
+"1":{"x":0,"y":0,"w":1211,"h":750,"offX":0,"offY":0,"sourceW":1211,"sourceH":750},
+"2":{"x":0,"y":754,"w":1114,"h":750,"offX":0,"offY":0,"sourceW":1114,"sourceH":750},
+"3":{"x":1118,"y":754,"w":200,"h":750,"offX":0,"offY":0,"sourceW":200,"sourceH":750},
+"4":{"x":1322,"y":416,"w":94,"h":346,"offX":0,"offY":0,"sourceW":94,"sourceH":346},
+"5":{"x":1322,"y":766,"w":69,"h":433,"offX":0,"offY":0,"sourceW":69,"sourceH":433},
+"bd":{"x":1420,"y":535,"w":152,"h":36,"offX":0,"offY":0,"sourceW":152,"sourceH":36},
+"correct":{"x":1215,"y":0,"w":580,"h":204,"offX":0,"offY":0,"sourceW":580,"sourceH":204},
+"error":{"x":1215,"y":208,"w":580,"h":204,"offX":0,"offY":0,"sourceW":580,"sourceH":204},
+"tang1":{"x":1420,"y":416,"w":113,"h":115,"offX":16,"offY":10,"sourceW":140,"sourceH":147},
+"tang2":{"x":1395,"y":766,"w":113,"h":120,"offX":14,"offY":7,"sourceW":140,"sourceH":147},
+"tang3":{"x":1322,"y":1203,"w":112,"h":125,"offX":15,"offY":5,"sourceW":140,"sourceH":147}}}

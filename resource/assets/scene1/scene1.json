@@ -1,0 +1,9 @@
+{"file":"scene1.png","frames":{
+"1":{"x":1415,"y":794,"w":68,"h":530,"offX":0,"offY":0,"sourceW":68,"sourceH":530},
+"2":{"x":1415,"y":0,"w":187,"h":459,"offX":0,"offY":0,"sourceW":187,"sourceH":459},
+"3":{"x":1604,"y":301,"w":159,"h":116,"offX":0,"offY":0,"sourceW":159,"sourceH":116},
+"4":{"x":1604,"y":0,"w":129,"h":299,"offX":0,"offY":0,"sourceW":129,"sourceH":299},
+"5":{"x":1735,"y":0,"w":97,"h":130,"offX":0,"offY":0,"sourceW":97,"sourceH":130},
+"6":{"x":1415,"y":461,"w":259,"h":331,"offX":0,"offY":0,"sourceW":259,"sourceH":331},
+"7":{"x":0,"y":0,"w":1413,"h":881,"offX":0,"offY":0,"sourceW":1413,"sourceH":881},
+"ground":{"x":0,"y":883,"w":1413,"h":399,"offX":0,"offY":0,"sourceW":1413,"sourceH":399}}}

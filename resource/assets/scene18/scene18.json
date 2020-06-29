@@ -1,0 +1,12 @@
+{"file":"scene18.png","frames":{
+"bd":{"x":685,"y":330,"w":152,"h":36,"offX":0,"offY":0,"sourceW":152,"sourceH":36},
+"di":{"x":593,"y":747,"w":47,"h":47,"offX":0,"offY":0,"sourceW":47,"sourceH":47},
+"peach":{"x":523,"y":747,"w":66,"h":55,"offX":0,"offY":0,"sourceW":66,"sourceH":55},
+"tree0":{"x":685,"y":0,"w":328,"h":326,"offX":0,"offY":0,"sourceW":328,"sourceH":326},
+"tree1":{"x":0,"y":0,"w":681,"h":376,"offX":0,"offY":0,"sourceW":681,"sourceH":376},
+"tree2":{"x":523,"y":380,"w":403,"h":363,"offX":0,"offY":0,"sourceW":403,"sourceH":363},
+"tree3":{"x":0,"y":380,"w":519,"h":405,"offX":0,"offY":0,"sourceW":519,"sourceH":405},
+"yunxuan01":{"x":841,"y":330,"w":71,"h":32,"offX":28,"offY":47,"sourceW":128,"sourceH":128},
+"yunxuan02":{"x":716,"y":747,"w":59,"h":29,"offX":34,"offY":49,"sourceW":128,"sourceH":128},
+"yunxuan03":{"x":644,"y":747,"w":68,"h":30,"offX":30,"offY":48,"sourceW":128,"sourceH":128},
+"yunxuan04":{"x":916,"y":330,"w":75,"h":29,"offX":25,"offY":48,"sourceW":128,"sourceH":128}}}

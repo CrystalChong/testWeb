@@ -1,0 +1,185 @@
+{
+    "achievement_config": {
+        "1": {
+            "id": 1,
+            "title": "迈出人生第一步",
+            "content": "通关第2关",
+            "aim": 2,
+            "type": 1,
+            "item": "coins",
+            "num": 500,
+            "iconID": 1
+        },
+        "2": {
+            "id": 2,
+            "title": "吾家有女初长成",
+            "content": "通关第4关",
+            "aim": 4,
+            "type": 1,
+            "item": "coins",
+            "num": 500,
+            "iconID": 2
+        },
+        "3": {
+            "id": 3,
+            "title": "感受社会的毒打",
+            "content": "通关第5关",
+            "aim": 5,
+            "type": 1,
+            "item": "egy",
+            "num": 1,
+            "iconID": 3
+        },
+        "4": {
+            "id": 4,
+            "title": "踢开路上的绊脚石",
+            "content": "通关第7关",
+            "aim": 7,
+            "type": 1,
+            "item": "coins",
+            "num": 500,
+            "iconID": 4
+        },
+        "5": {
+            "id": 5,
+            "title": "空中旅行欢乐多",
+            "content": "通关第10关",
+            "aim": 10,
+            "type": 1,
+            "item": "egy",
+            "num": 1,
+            "iconID": 5
+        },
+        "6": {
+            "id": 6,
+            "title": "一口气不费劲",
+            "content": "累计消耗5点体力",
+            "aim": 5,
+            "type": 2,
+            "item": "egy",
+            "num": 1,
+            "iconID": 6
+        },
+        "7": {
+            "id": 7,
+            "title": "我的内心毫无波动",
+            "content": "累计消耗10点体力",
+            "aim": 10,
+            "type": 2,
+            "item": "egy",
+            "num": 1,
+            "iconID": 7
+        },
+        "8": {
+            "id": 8,
+            "title": "挥汗的感觉真好",
+            "content": "累计消耗20点体力",
+            "aim": 20,
+            "type": 2,
+            "item": "egy",
+            "num": 1,
+            "iconID": 8
+        },
+        "9": {
+            "id": 9,
+            "title": "好像有一点点累呢",
+            "content": "累计消耗30点体力",
+            "aim": 30,
+            "type": 2,
+            "item": "egy",
+            "num": 1,
+            "iconID": 9
+        },
+        "10": {
+            "id": 10,
+            "title": "感觉身体被掏空",
+            "content": "累计消耗50点体力",
+            "aim": 50,
+            "type": 2,
+            "item": "egy",
+            "num": 1,
+            "iconID": 10
+        }
+    },
+    "chip_config": {
+        "104": {
+            "id": 104,
+            "chip_name": "大魔导师碎片",
+            "pic_id": 104,
+            "stage": "10,15",
+            "num": 1,
+            "prob": 0.4,
+            "need_ad": 0,
+            "need_double": 1
+        },
+        "105": {
+            "id": 105,
+            "chip_name": "冰雪女王碎片",
+            "pic_id": 105,
+            "stage": "16,25",
+            "num": 2,
+            "prob": 0.5,
+            "need_ad": 1,
+            "need_double": 0
+        }
+    },
+    "skins_config": {
+        "1": {
+            "id": 1,
+            "skin_name": "活力青春",
+            "skin_desc": "青春就是要活力四射",
+            "pic_id": 1,
+            "chips": 0,
+            "ads": 1,
+            "coins": 0,
+            "display": 1,
+            "quality": 1
+        },
+        "2": {
+            "id": 2,
+            "skin_name": "都市佳人",
+            "skin_desc": "过好996的每一天",
+            "pic_id": 2,
+            "chips": 0,
+            "ads": 2,
+            "coins": 2000,
+            "display": 2,
+            "quality": 2
+        },
+        "3": {
+            "id": 3,
+            "skin_name": "狂野魅影",
+            "skin_desc": "这是只属于野性的美",
+            "pic_id": 3,
+            "chips": 0,
+            "ads": 2,
+            "coins": 5000,
+            "display": 3,
+            "quality": 2
+        },
+        "4": {
+            "id": 4,
+            "skin_name": "大魔导师",
+            "skin_desc": "吃我大火球术！",
+            "pic_id": 4,
+            "chip_id": 104,
+            "chips": 4,
+            "ads": 0,
+            "coins": 5000,
+            "display": 4,
+            "quality": 3
+        },
+        "5": {
+            "id": 5,
+            "skin_name": "冰雪女王",
+            "skin_desc": "Let it go, let it go~",
+            "pic_id": 5,
+            "chip_id": 105,
+            "chips": 10,
+            "ads": 0,
+            "coins": 10000,
+            "display": 5,
+            "quality": 4
+        }
+    }
+}
